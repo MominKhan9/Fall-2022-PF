@@ -1,5 +1,5 @@
   ## Question 1: Miles per hour to kilometers per seconds 
-# Psuedocode\
+# Psuedocode
 \
 1: Start\
 2: Print Enter "Miles per hour"\
