@@ -1,5 +1,5 @@
   ## Question 1: Miles per hour to kilometers per seconds 
-#Psuedocode\
+# Psuedocode\
 \
 1: Start\
 2: Print Enter "Miles per hour"\
@@ -10,5 +10,5 @@
 7: End\
 
 \
-#flowchart
+# flowchart
 ![1](https://user-images.githubusercontent.com/117566652/209470851-da3513f3-c2f9-4584-a666-8f8bcff3302b.jpg)
