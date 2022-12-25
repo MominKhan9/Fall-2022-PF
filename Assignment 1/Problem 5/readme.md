@@ -1,6 +1,6 @@
 ## Question 5: Which Floor 
 
-#Psuedocode
+#Psuedocode\
 1: start\
 2: Print Input floor” 0-9”→F\
 3:0000001 =A B C D E F →0\
