@@ -9,3 +9,4 @@
 6: print “*”\
 7: End 
 # Flowchart
+![10](https://user-images.githubusercontent.com/117566652/209472508-027ad0d5-3625-450b-9ec3-0c3135af66cd.jpg)
