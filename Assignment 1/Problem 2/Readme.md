@@ -1,5 +1,5 @@
 ## Question 2: Even or Odd 
-\
+
 # Psuedocode
 \
 1: start\
@@ -11,5 +11,5 @@
 7: else\
 8: print” odd”\
 9: End\
-\
+
 # Flowchart
