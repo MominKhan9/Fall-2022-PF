@@ -1,5 +1,5 @@
 ## Question 4: Bus fare
-\
+
 # Psuedocode
 \
 1: start\
@@ -25,3 +25,4 @@
 21: End
 
 # Flowchart
+![4](https://user-images.githubusercontent.com/117566652/209471810-0ccce9fa-9076-4be0-b551-11da1416fe68.jpg)
