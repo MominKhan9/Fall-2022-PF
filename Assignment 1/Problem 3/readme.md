@@ -10,3 +10,4 @@
 6: If female age is>= 16 then” Adult”\
 7: End
 # Flowchart
+![3](https://user-images.githubusercontent.com/117566652/209471617-e1660096-ea10-408e-94c7-48bf2ef0468b.jpg)
