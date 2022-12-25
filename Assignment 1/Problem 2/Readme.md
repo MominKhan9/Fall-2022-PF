@@ -13,4 +13,4 @@
 9: End
 
 # Flowchart
-![1](https://user-images.githubusercontent.com/117566652/209471424-d91af6d4-2ad5-4874-b291-168fcb243d1e.jpg)
+![2](https://user-images.githubusercontent.com/117566652/209471432-3d5cd2b1-9d64-4bda-9719-ebfe74034d0a.jpg)
