@@ -1,11 +1,11 @@
 #Psuedocode
-1: Start
-2: Print Enter "Miles per hour"
-3: MPh =  Read input
-4: km/s = MPh x0.000447
-5: Print" kilometer Per Seconds"
-6: Print km/s
-7: End
+1: Start\
+2: Print Enter "Miles per hour"\
+3: MPh =  Read input\
+4: km/s = MPh x0.000447\
+5: Print" kilometer Per Seconds"\
+6: Print km/s\
+7: End\
 
 
 #flowchart
