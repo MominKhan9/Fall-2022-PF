@@ -25,4 +25,6 @@
 22: if F=9Print 9th floor \
 23: End.
 
-#Flowchart
+# Flowchart
+![5](https://user-images.githubusercontent.com/117566652/209471990-90630b1c-80ff-4fe3-a261-e5e6fbe9cc72.jpg)
+![6](https://user-images.githubusercontent.com/117566652/209471993-0b6e71b5-3fec-43be-9470-eed8e64e4e2c.jpg)
