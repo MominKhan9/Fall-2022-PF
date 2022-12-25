@@ -23,5 +23,5 @@
 19: F= D-5km x3Rs +5Rs\
 20: Print F\
 21: End
-\
+
 # Flowchart
