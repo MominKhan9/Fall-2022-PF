@@ -11,15 +11,17 @@ namespace sir_farooq_asigment
  {
  static void Main(string[] args)
  {
- Console.Write("Enter a positive integer: ");
- int n = int.Parse(Console.ReadLine());
- Console.WriteLine($"The {n}th Fibonacci number is {Fibonacci(n)}.");
- }
- static int Fibonacci(int n)
- {
- if (n == 0) return 0;
- if (n == 1) return 1;
- return Fibonacci(n - 1) + Fibonacci(n - 2);
+ int n1=0,n2=1,n3,i,number;    
+         Console.Write("Enter the number of elements: ");    
+         number = int.Parse(Console.ReadLine());  
+         Console.Write(n1+" "+n2+" "); //printing 0 and 1    
+         for(i=2;i<number;++i) //loop starts from 2 because 0 and 1 are already printed    
+         {    
+          n3=n1+n2;    
+          Console.Write(n3+" ");    
+          n1=n2;    
+          n2=n3; 
+         }
  }
  }
 }
