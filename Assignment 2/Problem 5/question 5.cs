@@ -5,7 +5,7 @@ using System.Linq;
 using System.Runtime.Remoting.Services;
 using System.Text;
 using System.Threading.Tasks;
-namespace sir_farooq_asigment
+namespace assignment_2
 {
  internal class Program
  {
